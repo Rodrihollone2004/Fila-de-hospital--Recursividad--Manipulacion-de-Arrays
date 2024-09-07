@@ -1,0 +1,15 @@
+D:\Estructura de datos\Hospital-Queue--Recursividad--Manipulaci-n-de-Arrays\Recursion\Recursion\bin\Debug\net8.0\Recursion.exe
+D:\Estructura de datos\Hospital-Queue--Recursividad--Manipulaci-n-de-Arrays\Recursion\Recursion\bin\Debug\net8.0\Recursion.deps.json
+D:\Estructura de datos\Hospital-Queue--Recursividad--Manipulaci-n-de-Arrays\Recursion\Recursion\bin\Debug\net8.0\Recursion.runtimeconfig.json
+D:\Estructura de datos\Hospital-Queue--Recursividad--Manipulaci-n-de-Arrays\Recursion\Recursion\bin\Debug\net8.0\Recursion.dll
+D:\Estructura de datos\Hospital-Queue--Recursividad--Manipulaci-n-de-Arrays\Recursion\Recursion\bin\Debug\net8.0\Recursion.pdb
+D:\Estructura de datos\Hospital-Queue--Recursividad--Manipulaci-n-de-Arrays\Recursion\Recursion\obj\Debug\net8.0\Recursion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estructura de datos\Hospital-Queue--Recursividad--Manipulaci-n-de-Arrays\Recursion\Recursion\obj\Debug\net8.0\Recursion.AssemblyInfoInputs.cache
+D:\Estructura de datos\Hospital-Queue--Recursividad--Manipulaci-n-de-Arrays\Recursion\Recursion\obj\Debug\net8.0\Recursion.AssemblyInfo.cs
+D:\Estructura de datos\Hospital-Queue--Recursividad--Manipulaci-n-de-Arrays\Recursion\Recursion\obj\Debug\net8.0\Recursion.csproj.CoreCompileInputs.cache
+D:\Estructura de datos\Hospital-Queue--Recursividad--Manipulaci-n-de-Arrays\Recursion\Recursion\obj\Debug\net8.0\Recursion.sourcelink.json
+D:\Estructura de datos\Hospital-Queue--Recursividad--Manipulaci-n-de-Arrays\Recursion\Recursion\obj\Debug\net8.0\Recursion.dll
+D:\Estructura de datos\Hospital-Queue--Recursividad--Manipulaci-n-de-Arrays\Recursion\Recursion\obj\Debug\net8.0\refint\Recursion.dll
+D:\Estructura de datos\Hospital-Queue--Recursividad--Manipulaci-n-de-Arrays\Recursion\Recursion\obj\Debug\net8.0\Recursion.pdb
+D:\Estructura de datos\Hospital-Queue--Recursividad--Manipulaci-n-de-Arrays\Recursion\Recursion\obj\Debug\net8.0\Recursion.genruntimeconfig.cache
+D:\Estructura de datos\Hospital-Queue--Recursividad--Manipulaci-n-de-Arrays\Recursion\Recursion\obj\Debug\net8.0\ref\Recursion.dll
