@@ -16,7 +16,6 @@
 
     public bool IsPalindrome(string word, int index = 0)
     {
-        //Falta reotrno exitoso
         while (index <= word.Length/2)
         {
             if (word[index] == word[word.Length - 1 - index])
