@@ -1,0 +1,15 @@
+D:\Estructura de datos\Fila-de-hospital--Recursividad--Manipulaci-n-de-Arrays\Fila de hospital\Fila de hospital\bin\Debug\net8.0\Fila de hospital.exe
+D:\Estructura de datos\Fila-de-hospital--Recursividad--Manipulaci-n-de-Arrays\Fila de hospital\Fila de hospital\bin\Debug\net8.0\Fila de hospital.deps.json
+D:\Estructura de datos\Fila-de-hospital--Recursividad--Manipulaci-n-de-Arrays\Fila de hospital\Fila de hospital\bin\Debug\net8.0\Fila de hospital.runtimeconfig.json
+D:\Estructura de datos\Fila-de-hospital--Recursividad--Manipulaci-n-de-Arrays\Fila de hospital\Fila de hospital\bin\Debug\net8.0\Fila de hospital.dll
+D:\Estructura de datos\Fila-de-hospital--Recursividad--Manipulaci-n-de-Arrays\Fila de hospital\Fila de hospital\bin\Debug\net8.0\Fila de hospital.pdb
+D:\Estructura de datos\Fila-de-hospital--Recursividad--Manipulaci-n-de-Arrays\Fila de hospital\Fila de hospital\obj\Debug\net8.0\Fila de hospital.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estructura de datos\Fila-de-hospital--Recursividad--Manipulaci-n-de-Arrays\Fila de hospital\Fila de hospital\obj\Debug\net8.0\Fila de hospital.AssemblyInfoInputs.cache
+D:\Estructura de datos\Fila-de-hospital--Recursividad--Manipulaci-n-de-Arrays\Fila de hospital\Fila de hospital\obj\Debug\net8.0\Fila de hospital.AssemblyInfo.cs
+D:\Estructura de datos\Fila-de-hospital--Recursividad--Manipulaci-n-de-Arrays\Fila de hospital\Fila de hospital\obj\Debug\net8.0\Fila de hospital.csproj.CoreCompileInputs.cache
+D:\Estructura de datos\Fila-de-hospital--Recursividad--Manipulaci-n-de-Arrays\Fila de hospital\Fila de hospital\obj\Debug\net8.0\Fila de hospital.sourcelink.json
+D:\Estructura de datos\Fila-de-hospital--Recursividad--Manipulaci-n-de-Arrays\Fila de hospital\Fila de hospital\obj\Debug\net8.0\Fila de hospital.dll
+D:\Estructura de datos\Fila-de-hospital--Recursividad--Manipulaci-n-de-Arrays\Fila de hospital\Fila de hospital\obj\Debug\net8.0\refint\Fila de hospital.dll
+D:\Estructura de datos\Fila-de-hospital--Recursividad--Manipulaci-n-de-Arrays\Fila de hospital\Fila de hospital\obj\Debug\net8.0\Fila de hospital.pdb
+D:\Estructura de datos\Fila-de-hospital--Recursividad--Manipulaci-n-de-Arrays\Fila de hospital\Fila de hospital\obj\Debug\net8.0\Fila de hospital.genruntimeconfig.cache
+D:\Estructura de datos\Fila-de-hospital--Recursividad--Manipulaci-n-de-Arrays\Fila de hospital\Fila de hospital\obj\Debug\net8.0\ref\Fila de hospital.dll
