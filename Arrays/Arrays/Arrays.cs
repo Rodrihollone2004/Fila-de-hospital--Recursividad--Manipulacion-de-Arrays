@@ -1,61 +1,54 @@
 ﻿public class Arrays
 {
-    char[] chars;
-    int repeat = 0;
-    int contVowel = 0;
-    char[] letter = new char[0];
-
-
-    public void Start(string word)
+   public void Start()
     {
-        chars = word.ToCharArray();
+            
+    Console.Write("Ingrese una oracion: ");
+        string oracion = Console.ReadLine();
 
-        Console.Write($"Largo: {chars.Length} \n");
+    Console.WriteLine(oracion.Length);
 
-        Console.WriteLine("Introduzca una letra: ");
-        Console.Write($"La letra se repitio {Letter()} veces. \n");
+        Console.Write("Ingrese una letra: ");
+        char letra = Console.ReadKey().KeyChar;
+    Console.WriteLine();
 
-        Console.WriteLine($"Hay {Vowels()} vocales.");
+        int CantidadLetra = oracion.Count(c => c == letra);
+    Console.WriteLine($"La letra '{letra}' se repite {CantidadLetra} veces.");
+
+        int CantidadVocales = oracion.Count(c => "aeiouAEIOU".Contains(c));
+    Console.WriteLine($"Cantidad de vocales: {CantidadVocales}");
+
+        var palabras = oracion.Split(' ');
+    Console.WriteLine("Largo de cada palabra: " + string.Join(" - ", palabras.Select(p => p.Length)));
+
+        string OracionReversa = new string(oracion.Reverse().ToArray());
+    Console.WriteLine($"Oracion al reves: {OracionReversa}");
+
+        string PalabraReversa = string.Join(" ", palabras.Select(p => new string(p.Reverse().ToArray())));
+    Console.WriteLine($"Palabras al reves:{PalabraReversa}");
+
+        string SinVocales = new string(oracion.Where(c => !"aeiouAEIOU".Contains(c)).ToArray());
+    Console.WriteLine($"Oracion sin vocales: {SinVocales}");
+
+        string Mayusculas = oracion.ToUpper();
+    Console.WriteLine($"Oracion en mayusculas: {Mayusculas}");
+
+        string cifradoCesar = CifradoCesar(oracion, 3);
+    Console.WriteLine($"Cifrado Cesar: {cifradoCesar}");
+
+        string cifradoXOR = CifradoXOR(oracion, 'k');
+    Console.WriteLine($"Cifrado XOR: {cifradoXOR}");
+
     }
 
-    public int Letter(int index = 0)
+    
+static string CifradoCesar(string input, int shift)
     {
-        while (letter.Length == 0) {
-            string input = Console.ReadLine();
-            if (input.Length == 1 && Char.IsLetter(input[0]))
-                letter = input.ToCharArray();
-            else
-                Console.WriteLine("Solo se acepta 1 letra");
-        }
-
-
-        if (index > chars.Length - 1)
-        {
-            return repeat;
-        }
-
-        if (Array.Exists(letter, v => v == chars[index]))
-        {
-            repeat++;
-        }
-
-        return Letter(index + 1);
+        return new string(input.Select(c => (char)(c + shift)).ToArray());
     }
-
-    public int Vowels(int index = 0, int repeat = 0)
+    static string CifradoXOR(string input, char key)
     {
-        char[] vowels = { 'A', 'E', 'I', 'O', 'U', 'a', 'e', 'i', 'o', 'u' };  // Incluí minúsculas también
-
-        if (index >= chars.Length)  // Si ya revisamos todos los caracteres
-        {
-            return contVowel;
-        }
-
-        if (Array.Exists(vowels, v => v == chars[index]))  // Si el carácter actual es una vocal
-        {
-            contVowel++;
-        }
-
-        return Vowels(index + 1);  // Avanzar al siguiente carácter
+        return new string(input.Select(c => (char)(c ^ key)).ToArray());
     }
 }
+

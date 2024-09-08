@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\rodri\\.nuget\\packages\\": {}
+    "C:\\Users\\Nemo\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Arrays\\Arrays\\Arrays.csproj",
+      "projectUniqueName": "C:\\Users\\Nemo\\Desktop\\Arrays\\Hospital-Queue--Recursivity--Arrays-Manipulation\\Arrays\\Arrays\\Arrays.csproj",
       "projectName": "Arrays",
-      "projectPath": "D:\\Arrays\\Arrays\\Arrays.csproj",
-      "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
-      "outputPath": "D:\\Arrays\\Arrays\\obj\\",
+      "projectPath": "C:\\Users\\Nemo\\Desktop\\Arrays\\Hospital-Queue--Recursivity--Arrays-Manipulation\\Arrays\\Arrays\\Arrays.csproj",
+      "packagesPath": "C:\\Users\\Nemo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Nemo\\Desktop\\Arrays\\Hospital-Queue--Recursivity--Arrays-Manipulation\\Arrays\\Arrays\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Nemo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
