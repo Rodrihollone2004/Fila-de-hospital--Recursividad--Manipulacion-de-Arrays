@@ -1,5 +1,4 @@
-﻿
-public class SumUserNumbers
+﻿public class SumUserNumbers
 {
     public void Logic()
     {
@@ -17,3 +16,6 @@ public class SumUserNumbers
         return limit + Sum(limit - 1);
     }
 }
+
+
+

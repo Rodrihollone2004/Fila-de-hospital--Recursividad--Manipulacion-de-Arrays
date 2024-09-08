@@ -1,5 +1,4 @@
-﻿
-using System.Diagnostics;
+﻿using System.Diagnostics;
 
 internal class Program
 {
@@ -18,3 +17,4 @@ internal class Program
         //palindrome.Start();
     }
 }
+

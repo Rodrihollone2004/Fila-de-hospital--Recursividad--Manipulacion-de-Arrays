@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nemo\\Desktop\\Arrays\\Hospital-Queue--Recursivity--Arrays-Manipulation\\Arrays\\",
+  "WorkspaceRootPath": "D:\\Estructura de datos\\Hospital-Queue--Recursividad--Manipulaci-n-de-Arrays\\Arrays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E2665D3-C7E1-4A20-ADE6-33B5BEC2828F}|Arrays\\Arrays.csproj|c:\\users\\nemo\\desktop\\arrays\\hospital-queue--recursivity--arrays-manipulation\\arrays\\arrays\\arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E2665D3-C7E1-4A20-ADE6-33B5BEC2828F}|Arrays\\Arrays.csproj|solutionrelative:arrays\\arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E2665D3-C7E1-4A20-ADE6-33B5BEC2828F}|Arrays\\Arrays.csproj|d:\\estructura de datos\\hospital-queue--recursividad--manipulaci-n-de-arrays\\arrays\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E2665D3-C7E1-4A20-ADE6-33B5BEC2828F}|Arrays\\Arrays.csproj|solutionrelative:arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E2665D3-C7E1-4A20-ADE6-33B5BEC2828F}|Arrays\\Arrays.csproj|c:\\users\\nemo\\desktop\\arrays\\hospital-queue--recursivity--arrays-manipulation\\arrays\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E2665D3-C7E1-4A20-ADE6-33B5BEC2828F}|Arrays\\Arrays.csproj|solutionrelative:arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E2665D3-C7E1-4A20-ADE6-33B5BEC2828F}|Arrays\\Arrays.csproj|d:\\estructura de datos\\hospital-queue--recursividad--manipulaci-n-de-arrays\\arrays\\arrays\\arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E2665D3-C7E1-4A20-ADE6-33B5BEC2828F}|Arrays\\Arrays.csproj|solutionrelative:arrays\\arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,28 +18,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Arrays.cs",
-              "DocumentMoniker": "C:\\Users\\Nemo\\Desktop\\Arrays\\Hospital-Queue--Recursivity--Arrays-Manipulation\\Arrays\\Arrays\\Arrays.cs",
+              "DocumentMoniker": "D:\\Estructura de datos\\Hospital-Queue--Recursividad--Manipulaci-n-de-Arrays\\Arrays\\Arrays\\Arrays.cs",
               "RelativeDocumentMoniker": "Arrays\\Arrays.cs",
-              "ToolTip": "C:\\Users\\Nemo\\Desktop\\Arrays\\Hospital-Queue--Recursivity--Arrays-Manipulation\\Arrays\\Arrays\\Arrays.cs",
+              "ToolTip": "D:\\Estructura de datos\\Hospital-Queue--Recursividad--Manipulaci-n-de-Arrays\\Arrays\\Arrays\\Arrays.cs",
               "RelativeToolTip": "Arrays\\Arrays.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwAgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-07T07:10:04.672Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nemo\\Desktop\\Arrays\\Hospital-Queue--Recursivity--Arrays-Manipulation\\Arrays\\Arrays\\Program.cs",
+              "DocumentMoniker": "D:\\Estructura de datos\\Hospital-Queue--Recursividad--Manipulaci-n-de-Arrays\\Arrays\\Arrays\\Program.cs",
               "RelativeDocumentMoniker": "Arrays\\Program.cs",
-              "ToolTip": "C:\\Users\\Nemo\\Desktop\\Arrays\\Hospital-Queue--Recursivity--Arrays-Manipulation\\Arrays\\Arrays\\Program.cs",
+              "ToolTip": "D:\\Estructura de datos\\Hospital-Queue--Recursividad--Manipulaci-n-de-Arrays\\Arrays\\Arrays\\Program.cs",
               "RelativeToolTip": "Arrays\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

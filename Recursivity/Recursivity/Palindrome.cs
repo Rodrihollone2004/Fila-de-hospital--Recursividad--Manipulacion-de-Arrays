@@ -16,7 +16,7 @@
 
     public bool IsPalindrome(string word, int index = 0)
     {
-        while (index <= word.Length/2)
+        while (index <= word.Length / 2)
         {
             if (word[index] == word[word.Length - 1 - index])
             {
@@ -29,6 +29,9 @@
             }
         }
 
-        return true; 
+        return true;
     }
 }
+
+
+
