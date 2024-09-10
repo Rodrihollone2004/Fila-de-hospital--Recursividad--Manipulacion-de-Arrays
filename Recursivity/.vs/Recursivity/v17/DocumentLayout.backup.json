@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rodri\\source\\repos\\Recursivity\\",
+  "WorkspaceRootPath": "D:\\Estructura de datos\\Hospital-Queue--Recursividad--Manipulaci-n-de-Arrays\\Recursivity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE1C6003-62DC-47E1-BCC7-8D967635C55B}|Recursivity\\Recursivity.csproj|c:\\users\\rodri\\source\\repos\\recursivity\\recursivity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EE1C6003-62DC-47E1-BCC7-8D967635C55B}|Recursivity\\Recursivity.csproj|d:\\estructura de datos\\hospital-queue--recursividad--manipulaci-n-de-arrays\\recursivity\\recursivity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE1C6003-62DC-47E1-BCC7-8D967635C55B}|Recursivity\\Recursivity.csproj|solutionrelative:recursivity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1C6003-62DC-47E1-BCC7-8D967635C55B}|Recursivity\\Recursivity.csproj|d:\\estructura de datos\\hospital-queue--recursividad--manipulaci-n-de-arrays\\recursivity\\recursivity\\palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1C6003-62DC-47E1-BCC7-8D967635C55B}|Recursivity\\Recursivity.csproj|solutionrelative:recursivity\\palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Palindrome.cs",
+              "DocumentMoniker": "D:\\Estructura de datos\\Hospital-Queue--Recursividad--Manipulaci-n-de-Arrays\\Recursivity\\Recursivity\\Palindrome.cs",
+              "RelativeDocumentMoniker": "Recursivity\\Palindrome.cs",
+              "ToolTip": "D:\\Estructura de datos\\Hospital-Queue--Recursividad--Manipulaci-n-de-Arrays\\Recursivity\\Recursivity\\Palindrome.cs",
+              "RelativeToolTip": "Recursivity\\Palindrome.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T00:25:02.083Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rodri\\source\\repos\\Recursivity\\Recursivity\\Program.cs",
+              "DocumentMoniker": "D:\\Estructura de datos\\Hospital-Queue--Recursividad--Manipulaci-n-de-Arrays\\Recursivity\\Recursivity\\Program.cs",
               "RelativeDocumentMoniker": "Recursivity\\Program.cs",
-              "ToolTip": "C:\\Users\\rodri\\source\\repos\\Recursivity\\Recursivity\\Program.cs",
+              "ToolTip": "D:\\Estructura de datos\\Hospital-Queue--Recursividad--Manipulaci-n-de-Arrays\\Recursivity\\Recursivity\\Program.cs",
               "RelativeToolTip": "Recursivity\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T04:07:53.72Z",
               "EditorCaption": ""

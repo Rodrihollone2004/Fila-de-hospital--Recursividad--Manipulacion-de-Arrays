@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rodri\\source\\repos\\Recursivity\\Recursivity\\Recursivity.csproj": {}
+    "D:\\Estructura de datos\\Hospital-Queue--Recursividad--Manipulaci-n-de-Arrays\\Recursivity\\Recursivity\\Recursivity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rodri\\source\\repos\\Recursivity\\Recursivity\\Recursivity.csproj": {
+    "D:\\Estructura de datos\\Hospital-Queue--Recursividad--Manipulaci-n-de-Arrays\\Recursivity\\Recursivity\\Recursivity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rodri\\source\\repos\\Recursivity\\Recursivity\\Recursivity.csproj",
+        "projectUniqueName": "D:\\Estructura de datos\\Hospital-Queue--Recursividad--Manipulaci-n-de-Arrays\\Recursivity\\Recursivity\\Recursivity.csproj",
         "projectName": "Recursivity",
-        "projectPath": "C:\\Users\\rodri\\source\\repos\\Recursivity\\Recursivity\\Recursivity.csproj",
+        "projectPath": "D:\\Estructura de datos\\Hospital-Queue--Recursividad--Manipulaci-n-de-Arrays\\Recursivity\\Recursivity\\Recursivity.csproj",
         "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rodri\\source\\repos\\Recursivity\\Recursivity\\obj\\",
+        "outputPath": "D:\\Estructura de datos\\Hospital-Queue--Recursividad--Manipulaci-n-de-Arrays\\Recursivity\\Recursivity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",

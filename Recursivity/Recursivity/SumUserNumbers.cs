@@ -1,8 +1,7 @@
 ﻿public class SumUserNumbers
 {
-    public void Logic()
+    public void Logic(int number)
     {
-        int number = 5;
         int sum = Sum(number);
 
         Console.WriteLine("Sum: " + sum);

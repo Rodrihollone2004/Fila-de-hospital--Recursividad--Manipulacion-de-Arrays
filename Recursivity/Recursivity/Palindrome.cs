@@ -7,10 +7,11 @@
 
         while (word != exitKey)
         {
+            Console.WriteLine("Enter a word: ");
             word = Console.ReadLine();
 
             if (IsPalindrome(word))
-                Console.WriteLine("The word is palindrome. Write another word");
+                Console.WriteLine("The word is palindrome.");
         }
     }
 
@@ -24,7 +25,7 @@
             }
             else
             {
-                Console.WriteLine("The word is not palindrome. Try another");
+                Console.WriteLine("The word is not palindrome.");
                 return false;
             }
         }

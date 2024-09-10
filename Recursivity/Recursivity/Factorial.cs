@@ -1,19 +1,19 @@
 ﻿public class Factorial
 {
-    public void Start()
+    public void Start(int number)
     {
-        int limit = 5;
-        int res = Fact(limit);
+        int res = Fact(number);
 
+        Console.WriteLine("The result is: ");
         Console.Write(res);
     }
 
-    int Fact(int num)
+    int Fact(int limit)
     {
-        if (num <= 1)
-            return num;
+        if (limit <= 1)
+            return limit;
 
-        int res = num * Fact(num - 1);
+        int res = limit * Fact(limit - 1);
 
         return res;
     }
