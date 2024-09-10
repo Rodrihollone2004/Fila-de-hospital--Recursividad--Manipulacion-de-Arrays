@@ -12,6 +12,7 @@
 
         last = current;
         current = result;
+        Console.WriteLine("Fibonacci: " + result);
 
         return FibonacciFunction(limit - 1);
     }
@@ -19,12 +20,7 @@
     int Add(int last, int current)
     {
         int result = last + current;
-
-        Console.Write(result + "\n");
-
         return result;
     }
 }
-
-
 

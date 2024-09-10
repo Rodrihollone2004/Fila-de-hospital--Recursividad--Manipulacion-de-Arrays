@@ -1,10 +1,13 @@
 ﻿public class SumUserNumbers
 {
-    public void Logic(int number)
+    public void Logic()
     {
+        Console.WriteLine("Enter a number: ");
+        int number = int.Parse(Console.ReadLine());
+
         int sum = Sum(number);
 
-        Console.WriteLine("Sum: " + sum);
+        Console.WriteLine("The result is: " + sum);
     }
 
     int Sum(int limit)

@@ -8,10 +8,10 @@ internal class Program
         //fibonacci.FibonacciFunction(10);
 
         //Factorial factorial = new Factorial();
-        //factorial.Start(4);
+        //factorial.Start();
 
         //SumUserNumbers sum = new SumUserNumbers();
-        //sum.Logic(10);
+        //sum.Logic();
 
         //Palindrome palindrome = new Palindrome();
         //palindrome.Start();

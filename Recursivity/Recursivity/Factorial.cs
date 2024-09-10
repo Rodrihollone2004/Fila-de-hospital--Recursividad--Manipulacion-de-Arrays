@@ -1,7 +1,10 @@
 ﻿public class Factorial
 {
-    public void Start(int number)
+    public void Start()
     {
+        Console.WriteLine("Enter a number: ");
+        int number = int.Parse(Console.ReadLine());
+
         int res = Fact(number);
 
         Console.WriteLine("The result is: ");
@@ -13,11 +16,8 @@
         if (limit <= 1)
             return limit;
 
-        int res = limit * Fact(limit - 1);
-
-        return res;
+        return limit * Fact(limit - 1);
     }
 }
-
 
 
